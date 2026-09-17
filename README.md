@@ -46,10 +46,3 @@ Model tuning wasn't the bottleneck — **label coverage was**. Roughly two-third
 ## Tech Stack
 
 Python · pandas · NLTK · scikit-learn · imbalanced-learn · XGBoost
-
-## Next Steps
-
-- Restrict training to the 452 verified-label records, or source more images
-- Swap TF-IDF for multilingual/BERT embeddings
-- Tune decision threshold via precision–recall curve
-- Report PR-AUC/F1 instead of accuracy as the headline metric
