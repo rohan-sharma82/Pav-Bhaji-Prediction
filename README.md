@@ -1,5 +1,3 @@
-# Pav-Bhaji-Prediction
-
 # Pav Bhaji Image Classification
 
 Classifying social-media food posts as **Pav Bhaji** or **Non-Pav Bhaji** using only their caption and hashtag text — no image pixels involved.
